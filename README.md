@@ -3,9 +3,6 @@
 <div> 
   <a href="https://www.linkedin.com/in/samuel-silva423/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   <a href = "mailto:samuelsilvaa431@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
-![SamuelMartins21 GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelMartins21&show_icons=true&theme=radical&count_private=true)
 
 ## Tecnologias que eu utilizo:
 
@@ -21,6 +18,7 @@
 
 ## Projetos
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SamuelMartins21&repo=ChatbotWhatsapp)](https://github.com/SamuelMartins21/ChatbotWhatsapp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SamuelMartins21&repo=ControleDeGastos)](https://github.com/SamuelMartins21/ControleDeGastos)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SamuelMartins21&repo=Microservice-email)](https://github.com/SamuelMartins21/Microservice-email)
 
