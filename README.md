@@ -1,16 +1,16 @@
-## Olá! Eu sou o Samuel Martins👋
+<h1 align="center">Olá! Eu sou o Samuel Martins👋</h1>
 
-<div> 
-  <a href="https://www.linkedin.com/in/samuel-silva423/" target="_blank" rel ="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<div align="center"> 
+  <a  href="https://www.linkedin.com/in/samuel-silva423/" target="_blank" rel ="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   <a href = "mailto:samuelsilvaa431@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>&nbsp;
 
-<div  align="center" style="margin-top:100px">
+<div  align="center">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=SamuelMartins21&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=SamuelMartins21&show_icons=true&theme=radical&layout=compact" />
  </div>
  
-## Tecnologias que eu utilizo:
+<h1 align="center">Linguagens e tecnologias que utilizo</h1>&nbsp;
 
 <div style="display: inline-block">
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -29,7 +29,7 @@
   
 </div><br/>
 
-## Projetos
+<h1 align="center">Projetos</h1>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SamuelMartins21&repo=ChatbotWhatsapp)](https://github.com/SamuelMartins21/ChatbotWhatsapp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SamuelMartins21&repo=ControleDeGastos)](https://github.com/SamuelMartins21/ControleDeGastos)
