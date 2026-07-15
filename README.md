@@ -7,7 +7,9 @@
 
 <div  align="center">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=SamuelMartins21&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=SamuelMartins21&show_icons=true&theme=radical&layout=compact" />
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=SamuelMartins21&layout=compact&langs_count=4&theme=shadow_red)](https://github-stats-extended.vercel.app/api/top-langs?username=SamuelMartins21&layout=compact&langs_count=4&theme=shadow_red)
+
  </div>
  
 <h1 align="center">Linguagens e tecnologias que utilizo</h1>&nbsp;
@@ -30,9 +32,7 @@
 
 <h1 align="center">Projetos</h1>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SamuelMartins21&repo=Portfolio)](https://github.com/SamuelMartins21/Portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SamuelMartins21&repo=ChatbotWhatsapp)](https://github.com/SamuelMartins21/ChatbotWhatsapp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SamuelMartins21&repo=ControleDeGastos)](https://github.com/SamuelMartins21/ControleDeGastos)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SamuelMartins21&repo=Microservice-email)](https://github.com/SamuelMartins21/Microservice-email)
-
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=SamuelMartins21&repo=SamuelMartins21/Site-Portfolio&theme=shadow_red)](https://github.com/SamuelMartins21/Site-Portfolio)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=SamuelMartins21&repo=SamuelMartins21/ChatbotWhatsapp&theme=shadow_red)](https://github.com/SamuelMartins21/ChatbotWhatsapp)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=SamuelMartins21&repo=SamuelMartins21/ControleDeGastos&theme=shadow_red)](https://github.com/SamuelMartins21/ControleDeGastos)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=SamuelMartins21&repo=SamuelMartins21/Microservice-email&theme=shadow_red)](https://github.com/SamuelMartins21/Microservice-email)
