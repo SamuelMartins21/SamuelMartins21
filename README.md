@@ -6,9 +6,9 @@
 </div>&nbsp;
 
 <div  align="center">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=SamuelMartins21&theme=radical&mode=weekly" />
+<img width=48% src="https://github-readme-streak-stats.herokuapp.com?user=SamuelMartins21&theme=radical&mode=weekly" />
 
-  <img width=45% align="center"
+  <img width=48%
     src="https://github-stats-extended.vercel.app/api/top-langs?username=SamuelMartins21&layout=compact&langs_count=4&theme=radical"
     alt="Top Languages"
   />
