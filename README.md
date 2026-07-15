@@ -5,14 +5,16 @@
   <a href = "mailto:samuelsilvaa431@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>&nbsp;
 
-<div  align="center">
-<img width=49% src="https://github-readme-streak-stats.herokuapp.com?user=SamuelMartins21&theme=radical&mode=weekly" />
-
-  <img width=48%
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=SamuelMartins21&layout=compact&langs_count=4&theme=radical"
-    alt="Top Languages"
-  />
- </div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=SamuelMartins21&theme=radical&mode=weekly" />
+    </td>
+    <td>
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=SamuelMartins21&layout=compact&langs_count=4&theme=radical" />
+    </td>
+  </tr>
+</table>
  
 <h1 align="center">Linguagens e tecnologias que utilizo</h1>&nbsp;
 
