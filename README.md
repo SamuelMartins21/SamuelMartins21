@@ -5,16 +5,9 @@
   <a href = "mailto:samuelsilvaa431@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>&nbsp;
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=SamuelMartins21&theme=radical&mode=weekly" />
-    </td>
-    <td>
-      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=SamuelMartins21&layout=compact&langs_count=4&theme=radical" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img width="50%" hspace="10" src="https://github-readme-streak-stats.herokuapp.com?user=SamuelMartins21&theme=radical&mode=weekly" alt="Streak" /><img width="42.5%" src="https://github-stats-extended.vercel.app/api/top-langs?username=SamuelMartins21&layout=compact&langs_count=4&theme=radical" alt="Top Languages" />
+</div>
  
 <h1 align="center">Linguagens e tecnologias que utilizo</h1>&nbsp;
 
@@ -24,9 +17,7 @@
   <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="rabbitmq" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" />
   <img alt="hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />
-  <img alt="springsecurity" src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="Twilio" src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" />
   <img alt="postgresSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
   <img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
